@@ -1,0 +1,25 @@
+
+    input {
+    display: none;
+}
+
+.showImg {
+    min-height: 1000px;
+    width: 1500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+
+  flex-wrap: wrap;
+}
+
+div {
+    height: 600px;
+    width: 450px;
+    margin:0 10px 10px 0;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
